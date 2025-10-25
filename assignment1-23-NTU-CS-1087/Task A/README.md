@@ -1,5 +1,6 @@
 Wokwi Link: https://wokwi.com/projects/445525900687682561
 Pin Map: 
+
                 | Component         | ESP32 Pin |
                 |-------------------|-----------|
                 | LED 1 (+)         | GPIO 23   |
